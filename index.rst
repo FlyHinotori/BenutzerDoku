@@ -19,9 +19,6 @@ Inhaltsverzeichnis:
    Kunden/index
    Stammdaten/index
    Einstellungen/index
-   root-topic
-
-
 
 Indices and tables
 ==================
