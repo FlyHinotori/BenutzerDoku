@@ -59,8 +59,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'BenutzerDoku FlyHinotori'
-copyright = '2015, PowerShell'
-author = 'PowerShell'
+copyright = '2015, BunnyBuster'
+author = 'BunnyBuster'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
