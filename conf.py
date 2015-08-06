@@ -58,7 +58,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'SphinxSample'
+project = 'BenutzerDoku FlyHinotori'
 copyright = '2015, PowerShell'
 author = 'PowerShell'
 
