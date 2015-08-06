@@ -46,7 +46,7 @@ html_theme = 'sphinx_rtd_theme'
 #html_theme_options = {}
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path ()]
 html_static_path = ['_static']
-htmlhelp_basename = 'pwkitdoc'
+htmlhelp_basename = 'FlyHinotoridoc'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
