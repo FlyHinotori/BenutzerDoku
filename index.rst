@@ -6,12 +6,7 @@
 Benutzerdokumentation FlyHinotori!
 =======================================
 
-hier kommt der Text rein...
-
-HowTo
-=======================================
-
-Contents:
+Inhaltsverzeichnis:
 
 .. toctree::
    :maxdepth: 2
