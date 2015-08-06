@@ -19,11 +19,11 @@ Inhaltsverzeichnis:
    Kunden/index
    Stammdaten/index
    Einstellungen/index
+   * :ref:`genindex`
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
