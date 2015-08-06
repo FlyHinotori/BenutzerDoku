@@ -19,7 +19,7 @@ author = u'BunnyBuster'
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
-language = de
+language = None
 exclude_patterns = []
 
 # If true, '()' will be appended to :func: etc. cross-reference text.
