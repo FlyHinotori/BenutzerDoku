@@ -9,7 +9,7 @@ FlyHinotori - Benutzerdokumentation
 Inhaltsverzeichnis:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    
    Oberflaeche/index
    NeuerAuftrag/index
