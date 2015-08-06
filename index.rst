@@ -19,12 +19,6 @@ Inhaltsverzeichnis:
    Kunden/index
    Stammdaten/index
    Einstellungen/index
-   
-* :ref:`genindex`
-
-Indices and tables
-==================
-
-* :ref:`genindex`
+* [iii]:ref:`genindex`
 * :ref:`search`
 
