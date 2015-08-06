@@ -3,9 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SphinxSample's documentation!
+Benutzerdokumentation FlyHinotori!
 =======================================
-Test3
+
+hier kommt der Text rein...
+
+HowTo
+=======================================
 
 Contents:
 
