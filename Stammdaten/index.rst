@@ -1,7 +1,9 @@
 Stammdaten
 ====================================================
 
-Beschreibung der Stammdatenpflege
+Die Stammdatenpflege dient zur Datenpflege verschiedenster...
+
+Im rechten Bereich der Anwendung erscheinen die verschidenen Bereiche zur Stammdatenpflege.
 
 .. toctree::
    :maxdepth: 3
