@@ -44,7 +44,7 @@ Bearbeiten
 
 Um einen Tabelleneintrag zu bearbeiten, sind folgende Schritte notwendig:
 
-1. Tabelleneintrag per Klick selektieren
+1. Tabelleneintrag per Mausklick selektieren
 2. Durch das Drücken der Taste <<F2>> wird der Bearbeiten-Modus aktiviert
 3. Das Ändern des Eintrages ist nun möglich
 4. Die Änderung mit der Taste <<ENTER>> beenden 
