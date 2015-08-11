@@ -24,6 +24,7 @@ Kundenübersicht
 Direkt unter dem Suchfeld werden die Kunden tabellarisch dargestellt. Zur Anzeige werden gebracht:
 
 ::
+	
 	KndNr - Kundennummer, technischer Schlüssel
 	Kundengruppe
 	Anrede
