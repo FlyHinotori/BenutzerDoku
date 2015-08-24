@@ -1,9 +1,7 @@
 Kunden
 ====================================================
 
-Beschreibung der Oberfläche für die Kundenpflege
-
-Im rechten Bereich der Anwendung erscheinen die verschidenen Bereiche zur Stammdatenpflege.
+Im rechten Bereich der Anwendung werden zwei Schaltflächen zur Navigation zwischen der Kundenübersicht und dem Anlegen eines neuen Kunden dargestellt.
 
 .. toctree::
    :maxdepth: 3

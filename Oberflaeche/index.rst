@@ -1,6 +1,0 @@
-Oberfläche
-====================================================
-
-Beschreibung der Oberfläche
-
-

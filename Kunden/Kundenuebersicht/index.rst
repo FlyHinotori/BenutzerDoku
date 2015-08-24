@@ -38,7 +38,7 @@ Direkt unter dem Suchfeld werden die Kunden tabellarisch dargestellt. Zur Anzeig
 	
 Die Anzahl der angezeigten Kunden ist abhängig von den Eingaben im Suchfeld. Damit alle Kunden dargestellt werden, muss das Suchfeld geleert werden. Die Auswahl eines Kunden erfolgt über den Mausklick. Danach können die Eigenschaften des gewählten Kunden geändert werden.
 
-###keine Ahnung###
+Kundendaten bearbeiten
 ----------------------------------------------------
 
 .. warning::
