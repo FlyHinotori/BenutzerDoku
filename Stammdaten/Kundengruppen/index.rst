@@ -1,6 +1,8 @@
 Kundengruppen
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Kundengruppen. Zur Anzeige werden gebracht:
 
 ::

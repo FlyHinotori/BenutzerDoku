@@ -1,6 +1,8 @@
 Positionen
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Positionen. Zur Anzeige werden gebracht:
 
 ::

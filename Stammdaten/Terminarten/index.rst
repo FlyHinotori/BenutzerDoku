@@ -1,6 +1,8 @@
 Terminarten
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Terminarten. Zur Anzeige werden gebracht:
 
 ::

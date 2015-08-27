@@ -1,6 +1,8 @@
 Mahnstufen
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Mahnstufen. Zur Anzeige werden gebracht:
 
 ::

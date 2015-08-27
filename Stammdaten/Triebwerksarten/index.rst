@@ -1,6 +1,8 @@
 Triebwerksarten
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Triebwerksarten. Zur Anzeige werden gebracht:
 
 ::

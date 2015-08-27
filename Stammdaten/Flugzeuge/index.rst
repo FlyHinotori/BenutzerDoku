@@ -1,6 +1,8 @@
 Flugzeuge
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege Ihrer Flugzeuge. Zur Anzeige werden gebracht:
 
 ::

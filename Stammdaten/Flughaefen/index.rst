@@ -1,6 +1,8 @@
 Flughäfen
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Flughäfen. Zur Anzeige werden gebracht:
 
 ::

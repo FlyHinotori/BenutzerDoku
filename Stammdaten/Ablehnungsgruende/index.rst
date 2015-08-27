@@ -1,6 +1,8 @@
 Ablehnungsgründe
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Ablehnungsgründen. Zur Anzeige werden gebracht:
 
 ::

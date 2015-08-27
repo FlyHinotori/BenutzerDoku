@@ -1,6 +1,8 @@
 Hersteller
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Herstellern. Zur Anzeige werden gebracht:
 
 ::

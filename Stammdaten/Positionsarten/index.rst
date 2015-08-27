@@ -1,6 +1,8 @@
 Positionsarten
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Positionsarten. Zur Anzeige werden gebracht:
 
 ::

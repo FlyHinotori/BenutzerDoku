@@ -1,6 +1,8 @@
 Flugzeugtypen
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Flugzeugtypen. Zur Anzeige werden gebracht:
 
 ::

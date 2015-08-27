@@ -1,6 +1,8 @@
 Auftragsarten
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Auftragsarten. Zur Anzeige werden gebracht:
 
 ::

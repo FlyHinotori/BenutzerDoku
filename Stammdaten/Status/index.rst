@@ -1,6 +1,8 @@
 Status
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Statis. Zur Anzeige werden gebracht:
 
 ::

@@ -1,6 +1,8 @@
 Firmendaten
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Maske dient zur Pflege der eigenen Firmendaten. Zur Anzeige werden gebracht:
 
 ::

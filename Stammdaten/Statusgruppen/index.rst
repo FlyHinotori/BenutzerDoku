@@ -1,6 +1,8 @@
 Statusgruppen
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Statusgruppen. Zur Anzeige werden gebracht:
 
 ::

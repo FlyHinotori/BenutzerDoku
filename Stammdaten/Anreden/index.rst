@@ -1,6 +1,8 @@
 Anreden
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Anreden. Zur Anzeige werden gebracht:
 
 ::

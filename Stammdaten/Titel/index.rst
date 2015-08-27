@@ -1,6 +1,8 @@
 Titel
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege von Titeln. Zur Anzeige werden gebracht:
 
 ::

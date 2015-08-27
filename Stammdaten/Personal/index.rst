@@ -1,6 +1,8 @@
 Personal
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Tabelle dient zur Pflege Ihres Personals. Zur Anzeige werden gebracht:
 
 ::
