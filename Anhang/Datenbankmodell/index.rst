@@ -4,10 +4,12 @@ Datenbankmodell
 Ablehnungsgrund
 ----------------------------------------------------
 
-Spaltenname | Typ | Primärschlüssel
---- | --- | ---
-ablg_id | int | X
-ablg_bez | nvarchar(100) |
+===========	===	===============
+Spaltenname	Typ	Primärschlüssel
+===========	===	===============
+ablg_id		int	X
+ablg_bez	nvarchar(100)	
+===========	===	===============
 
 Anrede
 ----------------------------------------------------
