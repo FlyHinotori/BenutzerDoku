@@ -38,7 +38,9 @@ Die Oberfläche der Anwendung gliedert sich in drei wesentliche Bereiche:
 	Rechts - Unternavigation - in Abhängigkeit des gewählten Programmteils in der Hauptnavigation
 	Mitte - Arbeitsbereich
 	
-.. image :: https://github.com/FlyHinotori/BenutzerDoku/blob/master/Bilder/Start.JPG
+.. image :: https://github.com/FlyHinotori/BenutzerDoku/blob/master/Einfuehrung/Start.JPG
+
+\includegraphics{Start.JPG}
 
 ![Start](Start.jpg)
 
