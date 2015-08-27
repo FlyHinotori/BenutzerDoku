@@ -37,6 +37,10 @@ Die Oberfläche der Anwendung gliedert sich in drei wesentliche Bereiche:
 	Links - Hauptnavigation - Neuer Auftrag, Aufträge, Rechnungen, Kalender, Kunden, Stammdaten
 	Rechts - Unternavigation - in Abhängigkeit des gewählten Programmteils in der Hauptnavigation
 	Mitte - Arbeitsbereich
+	
+.. image :: Start.jpg
+
+
 
 Sicherung
 ----------------------------------------------------
