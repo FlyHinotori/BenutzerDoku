@@ -1,6 +1,8 @@
 Rechnungsübersicht
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Die Maske der Rechnungsübersicht gliedert sich in drei Bereiche.
 
 Suchfeld

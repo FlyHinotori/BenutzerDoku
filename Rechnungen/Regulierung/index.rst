@@ -3,6 +3,8 @@ Regulierung
 
 In diesem Programmteil werden Rechnungen angezeigt, deren Status "bezahlt" und Saldo größer 0 Euro ist.
 
+.. figure::	screenshot.JPG
+
 Zur Anzeige werden hier gebracht:
 
 ::

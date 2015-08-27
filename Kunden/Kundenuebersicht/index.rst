@@ -1,6 +1,8 @@
 Kundenübersicht
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Die Maske der Kundenübersicht gliedert sich in vier Bereiche.
 
 Suchfeld

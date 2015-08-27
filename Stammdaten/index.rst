@@ -1,9 +1,11 @@
 Stammdaten
 ====================================================
 
-Die Stammdatenpflege dient zur Datenpflege verschiedenster...
+Dieser Programmteil dient zur Pflege verschiedenster Stammdaten.
 
-Im rechten Bereich der Anwendung erscheinen die verschidenen Bereiche zur Stammdatenpflege.
+.. figure::	screenshot.JPG
+
+Im rechten Bereich der Anwendung erscheinen die verschiedenen Bereiche zur Stammdatenpflege.
 
 .. toctree::
    :maxdepth: 3

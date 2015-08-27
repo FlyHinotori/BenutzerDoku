@@ -1,6 +1,8 @@
 Neuer Termin
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Diese Maske dient der Neuanlage eines Termins. Folgende Schritte sind dazu notwendig:
 
 1. Ausfüllen der Eigenschaftsfelder

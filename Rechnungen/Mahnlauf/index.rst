@@ -3,6 +3,8 @@ Mahnlauf
 
 Über den Programmpunkt "Mahnlauf" können für fällige Rechnungen Mahnstufen gesetzt und Mahnzuschläge erzeugt werden.
 
+.. figure::	screenshot.JPG
+
 Um einen Mahnlauf durchzuführen, ist lediglich ein Mausklick auf die Schaltfläche "Mahnlauf durchführen" und das Beantworten der Sicherheitsabfrage mit "Ja" nötig.
 
 .. note::

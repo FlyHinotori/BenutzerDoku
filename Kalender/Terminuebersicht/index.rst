@@ -1,6 +1,8 @@
 Terminübersicht
 ====================================================
 
+.. figure::	screenshot.JPG
+
 Die Maske der Terminübersicht gliedert sich in vier Bereiche.
 
 Suchfeld
