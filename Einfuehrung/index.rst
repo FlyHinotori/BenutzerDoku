@@ -5,13 +5,15 @@ Systemanforderungen
 ----------------------------------------------------
 
 **Betriebssystem**
-* Microsoft Windows 7 oder höher
-* .NET Framework 4.5
+
+- Microsoft Windows 7 oder höher
+- .NET Framework 4.5
 
 **Hardware**
-* Prozessor: 1 GHz oder schneller
-* RAM: 2 GB
-* freier Festplattenspeicher: 20 GB
+
+- Prozessor: 1 GHz oder schneller
+- RAM: 2 GB
+- freier Festplattenspeicher: 20 GB
 
 Zusätzliche Standardperipheriegeräte wie Maus, Tastatur und Monitor werden vorausgesetzt.
 

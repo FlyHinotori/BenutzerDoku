@@ -19,6 +19,5 @@ Inhaltsverzeichnis:
    Kunden/index
    Stammdaten/index
    Einstellungen/index
-* :ref:`genindex`
-* :ref:`search`
+   Anhang/index
 
