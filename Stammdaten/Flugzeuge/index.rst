@@ -34,7 +34,7 @@ Um die Tabelle mit einem neuen Eintrag zu erweitern, sind folgende Schritte notw
 	
 3. Die Hinweismeldung mit "OK" beantworten. (erscheint nur nach den Zufügen)
 
-..note::	
+.. note::	
 	Ein neues Flugzeug mit dem Kennzeichen "<<Dummy>>" wurde angelegt und muss nun bearbeitet werden.
 
 
