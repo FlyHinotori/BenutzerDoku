@@ -14,6 +14,10 @@ Systemanforderungen
 	- Prozessor: 1 GHz oder schneller
 	- RAM: 2 GB
 	- freier Festplattenspeicher: 20 GB
+	
+**Software**
+	
+	- Acrobat Adobe Reader
 
 Zusätzliche Standardperipheriegeräte wie Maus, Tastatur und Monitor werden vorausgesetzt.
 

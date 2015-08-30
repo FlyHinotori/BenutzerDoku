@@ -18,6 +18,5 @@ Inhaltsverzeichnis:
    Kalender/index
    Kunden/index
    Stammdaten/index
-   Einstellungen/index
    Anhang/index
 
