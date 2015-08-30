@@ -51,7 +51,7 @@ Für den **Einzelflug** sind folgende Angaben notwendig:
 .. figure::	screenshot-einzelflug.JPG
 
 .. note::
-	Derzeit ist die Auswahl eines Start-/Zielflughafens noch sehr benutzerunfreundlich. Wie arbeiten mit Hochdruck an einer Programmverbesserung, in der wir diesen Umstand abstellen wollen.
+	Derzeit ist die Auswahl eines Start-/Zielflughafens noch sehr benutzerunfreundlich. Wir arbeiten mit Hochdruck an einer Programmverbesserung, in der wir diesen Umstand abstellen.
 	
 Für den **Flug mit Zwischenlandung** sind folgende Angaben notwendig:
 
