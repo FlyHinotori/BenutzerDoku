@@ -50,16 +50,12 @@ Die Oberfläche der Anwendung gliedert sich in drei wesentliche Bereiche:
 Sicherung
 ----------------------------------------------------
 
-Da die komplette Datenhanltung in einer Datenbank erfolgt, sind nur die Datenbankdateien zur Herstellung notwendig:
-
-::
-	
-	Autopilot.mdf
-	Autopilot_log.mdf
-	
-Die Datenbankdateien befinden sich im Programmverzeichnis der Anwendung.
+Zur Wiederherstellung eines Programmstandes ist es notwendig, das komplette Programmverzeichnis inklusive aller Unterverzeichnisse zu sichern.
 
 Wiederherstellung
 ----------------------------------------------------
 
-Zur Wiederherstellung einer Sicherung ist es lediglich erforderlich, die Datenbankdateien aus einer Sicherung in das aktuelle Programmverzeichnis wieder herzustellen.
+Zur Wiederherstellung eines Programmstandes ist es notwendig, die komplette Sicherung des Programmverzeichnis inklusive aller Unterverzeichnisse einzuspielen.
+
+.. note::
+	Sollte das Programm muss dazu zwingend beendet werden.
