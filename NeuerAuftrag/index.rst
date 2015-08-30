@@ -124,5 +124,5 @@ Die Erfassung von zusätzlichen **Sonderwünschen** erfolgt über eine seperate 
 Zur endgültige Speicherung des Auftrages ist das Betätigen der Schaltfläche "Speichern" notwendig.
 
 .. note::
-	Das Speichern erfolgt ohne eine weitere Sicherheitsabfrage.
+	Das erfolgreiche Speichern wird durch einen Dialog bestätigt.
 	
