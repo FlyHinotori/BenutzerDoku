@@ -3,7 +3,7 @@ Aufträge
 
 Dieser Programmteil handelt die Abarbeitung eines Auftrages von der Angebotserstellung bis zur Rechnungslegung ab.
 
-.. figure::	screenshot1.JPG
+.. figure::	screenshot.JPG
 
 Im oberen Teil des Programmfensters werden alle Aufträge des Unternehmens tabellarisch dargestellt. Folgende Informationen werden ausgegeben:
 
