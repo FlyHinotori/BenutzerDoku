@@ -9,8 +9,8 @@ Begonnen wird mit der Aufnahme der Kundendaten:
 
 ::
 	
-	Anrede
-	Titel
+	Anrede - einen Eintrag aus der Auswahlbox selektieren
+	Titel - einen Eintrag aus der Auswahlbox selektieren
 	Name
 	Vorname
 	Straße - incl. Hausnummer
@@ -43,6 +43,7 @@ Für die Auftragsart gibt es drei Möglichkeiten:
 Für den **Einzelflug** sind folgende Angaben notwendig:
 
 ::
+	
 	Start - einen Eintrag aus der Auswahlbox selektieren
 	Ziel - einen Eintrag aus der Auswahlbox selektieren
 	Passagieranzahl
@@ -55,6 +56,7 @@ Für den **Einzelflug** sind folgende Angaben notwendig:
 Für den **Flug mit Zwischenlandung** sind folgende Angaben notwendig:
 
 ::
+	
 	Start - einen Eintrag aus der Auswahlbox selektieren
 	Ziel - einen Eintrag aus der Auswahlbox selektieren
 	Passagieranzahl
@@ -75,6 +77,7 @@ Damit eine Zwischenlandung aus einem Auftrag entfernt wird, sind folgende Arbeit
 Für die Auftragsart **Zeitcharter** sind folgende Angaben notwendig:
 
 ::
+	
 	Dauer (h) - Zeit der Charter in Stunden
 	
 .. figure::	screenshot-zeitcharter.JPG
