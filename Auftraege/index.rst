@@ -81,7 +81,7 @@ Der Kunde hat nun die Möglichkeit den Vertrag anzunehmen und diesen unterschrie
 Flugdurchführung
 ----------------------------------------------------
 
-Damit ein flug durchgeführt werden kann, muss der Kunde einen unterschriebenen Vertrag zurückgesendet haben. Um einen Flug zur Durchführung zu markieren, sind folgende Schritte notwendig:
+Damit ein Flug durchgeführt werden kann, muss der Kunde einen unterschriebenen Vertrag zurückgesendet haben. Um einen Flug zur Durchführung zu markieren, sind folgende Schritte notwendig:
 
 .. note::
 	Der Auftrag muss sich im Status "Vertrag" befinden.
