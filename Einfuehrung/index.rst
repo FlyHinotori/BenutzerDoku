@@ -58,4 +58,4 @@ Wiederherstellung
 Zur Wiederherstellung eines Programmstandes ist es notwendig, die komplette Sicherung des Programmverzeichnis inklusive aller Unterverzeichnisse einzuspielen.
 
 .. note::
-	Sollte das Programm muss dazu zwingend beendet werden.
+	Das Programm muss dazu zwingend vorher beendet werden.
