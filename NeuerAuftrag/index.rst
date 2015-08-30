@@ -5,6 +5,9 @@ Dieser Programmteil dient zur Anlage eines neuen Auftrages.
 
 .. figure::	screenshot1.JPG
 
+Kundendaten
+----------------------------------------------------
+
 Begonnen wird mit der Aufnahme der Kundendaten:
 
 ::
@@ -22,6 +25,9 @@ Begonnen wird mit der Aufnahme der Kundendaten:
 	Kundengruppe - VIP/CORP/PRE
 	
 Nach dem Erfassen der Kundendaten ist ein Mausklick auf die Schaltfläche "Weiter" notwendig, um in die Aufnahme der Auftragdetails zu wechseln.
+
+Flugdetails
+----------------------------------------------------
 
 .. figure::	screenshot2.JPG
 
