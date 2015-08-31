@@ -24,12 +24,12 @@ Zusätzliche Standardperipheriegeräte wie Maus, Tastatur und Monitor werden vor
 Installation
 ----------------------------------------------------
 
-Eine Installation der Anwendung ist nicht notwendig. Alle Notwendigen Programmdatei werden durch den Softwarehersteller bereitgestellt.
+Eine Installation der Anwendung ist nicht notwendig. Alle notwendigen Programmdateien werden durch den Softwarehersteller bereitgestellt.
 
 .. note::
 	Bitte beachten Sie die Softwareanforderungen!
 	
-Fehlende Verzeichnisse oder PDF-Dateien werden bei Bedarf durch die Anwendung automatisch erzeugt.
+Fehlende Verzeichnisse oder Dateien werden bei Bedarf durch die Anwendung automatisch erzeugt.
 
 .. note::
 	Der Benutzer der Anwendung muss zwingend Schreibrecht im Programmverzeichnis besitzen.
