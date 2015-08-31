@@ -13,8 +13,8 @@ project = u'FlyHinotori'
 version = '0.1.00' 
 release = '0.1.00'
 
-copyright = u'2015, BunnyBuster'
-author = u'BunnyBuster'
+copyright = u'2015, FlyHinotori'
+author = u'FlyHinotori'
 
 templates_path = ['_templates']
 source_suffix = '.rst'
